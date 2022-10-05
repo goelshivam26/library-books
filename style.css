@@ -1,0 +1,11 @@
+body{
+    background-image: url(bg.avif);
+    background-repeat: no-repeat;
+    background-size: 1600px 1000px;
+    
+}
+
+.heading{
+    font-family: "Audiowide", sans-serif;
+    background-color : rgb(255, 228, 196,0.4);
+}
